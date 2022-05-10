@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### hola Ariel 👋
+### BIENVENIDO A MI PERFIL 
 <!--
 **crisari2022/crisari2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
